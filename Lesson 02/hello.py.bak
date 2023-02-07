@@ -1,0 +1,15 @@
+print("hellloooo")
+
+# To-Do: модифікувати програму!!!
+
+#1. https://github.com/ - зареєструватися
+#2. https://desktop.github.com/ - скачати
+#3. Синхронізувати локальний репозиторій із веб
+# Lab-01
+
+#4. Зареєструвтаися https://datalore.jetbrains.com/notebooks
+
+# ВСТАНОВИТИ БІБЛІОТЕКУ: pip install requests
+
+#pip install notebook
+#jupyter notebook
